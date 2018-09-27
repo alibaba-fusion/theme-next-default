@@ -1,0 +1,22 @@
+{
+  "name": "@alifd/dpl-next-default",
+  "version": "0.1.0",
+  "description": "next 默认皮肤",
+  "main": "index.js",
+  "keywords": [
+    "fusion",
+    "dpl",
+    "next",
+    "default"
+  ],
+  "peerDependencies": {
+    "@alifd/next": "^1.x",
+    "moment": "2.x",
+    "react": "16.x",
+    "react-dom": "16.x"
+  },  
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.org"
+  }
+}
